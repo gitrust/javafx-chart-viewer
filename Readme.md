@@ -9,3 +9,7 @@ Starts a JavaFX application where one can drop *.csv files and display generated
 ## Start application
 
 	make start
+	
+## Application screenshot
+
+![Screenshot](screenshot.png)
